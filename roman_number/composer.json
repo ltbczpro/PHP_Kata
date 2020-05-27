@@ -1,0 +1,17 @@
+{
+    "name": "ltbczpro/roman_number",
+    "authors": [
+        {
+            "name": "Lucy Tabaczynsky",
+            "email": "ltbczpro@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Ltbczpro\\RomanNumber\\" : "src/"
+        }
+    }
+}
